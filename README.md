@@ -1,4 +1,4 @@
-Hi, I’m Filip Kwiatkowski
+Hi, I’m Filip Kwiatkowski, fifth year student of Mathematics.
 
 I’m currently learning Kotlin and Java while looking for first job in programming world.
 
