@@ -1,6 +1,5 @@
-Hi, I’m Filip Kwiatkowski, fifth year student of Mathematics.
-
-I’m currently learning Kotlin and Java while looking for first job in programming world.
+Hi, I’m Filip Kwiatkowski
+Salesforce Developer
 
 <!---
 filip-kwiatkowski/filip-kwiatkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
