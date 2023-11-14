@@ -1,4 +1,5 @@
-Hi, I’m Filip Kwiatkowski
+Hi, I’m Filip Kwiatkowski.
+
 Salesforce Developer
 
 <!---
